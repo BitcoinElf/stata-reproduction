@@ -1,0 +1,9 @@
+ 1/5 can you improve your #hodling by having your @GetBittr or @SwanBitcoin buy on a specific day of the week? Some say newcomers invest time into #Bitcoin on the weekend and buy their first sats on Sat(ur)day or Sunday, thus driving prices up...let’s verify!
+
+2/5 How do we verify that #Sats are cheaper on Thursdays than Sunday? For each calendar week since mid-2010 we calculate an average BTC-price. Then we compare that price to the price on, say, every Monday in our data set. This I call Mondays’ discount (in %)
+
+3/5 averaging the Weekdays’ discounts by year shows: if you had #stacked #sats each Sunday in 2017, you had bought at a discount of 2% from weekly average price! BUT… {Discounts_01.png}
+
+4/5 Don’t let yourselves get #FooledByRandomness (hi @nntaleb 😉) that easily! There is no #cheap Monday in #Bitcoin . In roughly half the years the average deviation of Mondays’ prices is above zero. This is exactly what a coin toss would produce. Just #stacksats. {Discounts_02.png}
+
+5/5 This last post provides the full data on any weekday’s discount. It should be clear that weekday-based #trading just does not work. {Discounts_03.png} 
